@@ -38,9 +38,9 @@
 ---
 
 ### 📫 How to Reach Me
-- **Email:** [laloarauxo@gmail.com](mailto:laloarauxo@gmail.com)  
+- **Email:** [cyberlalo@proton.me](mailto:cyberlalo@proton.me)  
 - **LinkedIn:** [linkedin.com/in/cyb3rl4l0](https://www.linkedin.com/in/cyb3rl4l0/)  
-- **YouTube:** [youtube.com/@cyb3rl4l0](https://www.youtube.com/@cyb3rl4l0)
+- **YouTube:** [youtube.com/@invoke-virtual](https://www.youtube.com/@invoke-virtual)
 
 ---
 
