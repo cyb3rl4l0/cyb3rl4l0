@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm <strong>cyb3rl4l0</strong> 👋</h1>
-  <h3>Cybersecurity Student | Java Developer | OWASP Top 10 Advocate</h3>
+  <h3>Cybersecurity Student | Java Developer </h3>
 </div>
 
 ---
